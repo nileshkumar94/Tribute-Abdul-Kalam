@@ -1,0 +1,23 @@
+body {
+    background-color: #F6F6EF;
+}
+
+.main-content {
+    background-color: #E5E5D1;
+    margin: 5%;
+}
+
+.banner {
+    border: 5px solid white;
+    margin: 8%;
+    border-radius: 0.5%;
+}
+
+.banner-image {
+    width: 99.8%;
+}
+
+.banner-text {
+    text-align: center;
+    padding: 0.7%;
+}
