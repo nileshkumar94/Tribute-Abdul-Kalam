@@ -9,8 +9,10 @@ body {
 
 .banner {
     border: 5px solid white;
-    margin: 8%;
+    margin: 3%;
+    margin-top: 1%;
     border-radius: 0.5%;
+    background: #F9F9F6;
 }
 
 .banner-image {
@@ -20,4 +22,17 @@ body {
 .banner-text {
     text-align: center;
     padding: 0.7%;
+}
+
+h3 {
+    text-align: center;
+    padding-top: 1%;
+    margin: 0px !important;
+}
+
+.tagline {
+    font-size: 1.7rem;
+    text-align: center;
+    margin: 0px !important;
+    font-style: italic;
 }
